@@ -9,8 +9,7 @@
         "email": "prosperotemuyiwa@gmail.com",
         "role": "Developer"
       }
-   ],
-   "minimum-stability": "stable",
+   ], 
    "require": {},
     "autoload": {
         "psr-4": {
